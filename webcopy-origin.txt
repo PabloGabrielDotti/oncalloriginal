@@ -1,0 +1,508 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:300%2C400%2C500%2C700%2C900&ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\oncallpractice.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\oncallpractice.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\oncallpractice.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\oncallpractice.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\oncallpractice.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2016/12/chart.png?fit=768%2C356&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2016\12\chart.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2016/12/cropped-Transparent-logo-copy-1.png?fit=180%2C180&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2016\12\cropped-Transparent-logo-copy-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2016/12/cropped-Transparent-logo-copy-1.png?fit=192%2C192&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2016\12\cropped-Transparent-logo-copy-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2016/12/cropped-Transparent-logo-copy-1.png?fit=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2016\12\cropped-Transparent-logo-copy-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2017/12/map.png?fit=1024%2C662&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2017\12\map.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Billing-and-Auditing.jpg?fit=1024%2C683&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Billing-and-Auditing.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Connectivity.jpg?fit=640%2C316&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Connectivity.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Diversity-Strength.jpg?fit=640%2C412&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Diversity-Strength.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Info-Tech.jpg?resize=1200%2C750&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Info-Tech.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/NY-City-2.jpg?fit=1024%2C576&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\NY-City-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/NY-City.jpg?fit=1024%2C681&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\NY-City.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Support.jpg?fit=1024%2C645&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Support.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/08/Year-Long-Service.jpg?fit=1024%2C624&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\08\Year-Long-Service.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oncallpractice.com/wp-content/uploads/2020/09/Cloud-Computing-.png?fit=640%2C412&ssl=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\oncallpractice.com\wp-content\uploads\2020\09\Cloud-Computing-.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\index.htm
+Content Type: text/html
+
+Uri: https://oncallpractice.com/about-us/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://oncallpractice.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://oncallpractice.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\oncallpractice.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/comments/feed/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://oncallpractice.com/contact-us-ocpm/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\contact-us-ocpm\index.htm
+Content Type: text/html
+
+Uri: https://oncallpractice.com/feed/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/css/animations.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\css\animations.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/css/components.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\css\components.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/css/image-box.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\css\image-box.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/bg-gradient.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\bg-gradient.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/clouds_1.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\clouds_1.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/clouds_2.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\clouds_2.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/dotted-line.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\dotted-line.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/fog_1.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\fog_1.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/fog_2.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\fog_2.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/gradient-line-dark.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\gradient-line-dark.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/gradient-line.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\gradient-line.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/assets/loader.gif
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/loader.svg
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/carbonio-white.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\carbonio-white.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/carbonio.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\carbonio.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/dotted-white.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\dotted-white.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/dotted.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\dotted.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/line-45-white.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\line-45-white.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/line-45.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\line-45.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/points.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\points.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/squares.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\squares.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/tile.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\tile.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/images/overlay/tv.gif
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\images\overlay\tv.gif
+Content Type: image/gif
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/bootstrap/css/bootstrap.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/bootstrap/js/bootstrap.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/css/font-awesome.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/jquery.magnific-popup.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/jquery.progress-counter.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\jquery.progress-counter.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/magnific-popup.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\magnific-popup.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/parallax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/php/contact-form.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\php\contact-form.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/php/contact-form.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\php\contact-form.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/php/datepicker.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\php\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/script.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\script.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/scripts/smooth.scroll.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\scripts\smooth.scroll.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/hybrid-composer/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\hybrid-composer\style.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.1.2
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\jetpack\_inc\build\photon\photon.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-content/themes/yellowbusiness-child/style.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\themes\yellowbusiness-child\style.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/themes/yellowbusiness/skin.css?ver=1.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\themes\yellowbusiness\skin.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-content/uploads/2016/12/On-Call-320-Logo.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-content\uploads\2016\12\On-Call-320-Logo.png
+Content Type: image/png
+
+Uri: https://oncallpractice.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://oncallpractice.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://oncallpractice.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://oncallpractice.com/wp-json/
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2F
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2Fcontact-us-ocpm%2F
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/oembed/1.0/embed?url=https:%2F%2Foncallpractice.com%2Fcontact-us-ocpm%2F&format=xml
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://oncallpractice.com/wp-json/wp/v2/pages/1001337
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\wp\v2\pages\1001337
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/wp/v2/pages/1001369
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\wp\v2\pages\1001369
+Content Type: application/json
+
+Uri: https://oncallpractice.com/wp-json/wp/v2/pages/1001489
+File Name: C:\Downloaded Web Sites\oncallpractice.com\wp-json\wp\v2\pages\1001489
+Content Type: application/json
+
+Uri: https://oncallpractice.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\oncallpractice.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Downloaded Web Sites\oncallpractice.com\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://stats.wp.com/e-202230.js
+File Name: C:\Downloaded Web Sites\oncallpractice.com\e-202230.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=365598808258468&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\oncallpractice.com\tr
+Content Type: image/gif
+
